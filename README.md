@@ -1,7 +1,7 @@
 # Eye Disease Classification
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Framework](https://img.shields.io/badge/Framework-PyTorch%20%7C%20)
+![Framework](https://img.shields.io/badge/Framework-PyTorch%20%7C)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 A deep learning project designed to classify various eye diseases from retinal fundus images. This repository explores **Supervised Learning** baselines and implements **Semi-Supervised Learning** techniques to improve performance on limited labeled data. It also features a **Streamlit** web application for easy model demonstration.
