@@ -32,9 +32,7 @@ A deep learning project designed to classify various eye diseases from retinal f
     *(Note: Ensure you have the necessary libraries installed. If a requirements.txt is available, use that. Otherwise, install the core packages below.)*
     ```bash
     pip install numpy pandas matplotlib scikit-learn streamlit
-    # Install your deep learning backend (uncomment one):
-    # pip install torch torchvision  # If using PyTorch
-    # pip install tensorflow         # If using TensorFlow
+    # pip install torch torchvision
     ```
 
 ## 💻 Usage
