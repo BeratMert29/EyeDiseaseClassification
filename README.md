@@ -10,8 +10,8 @@ A deep learning project designed to classify various eye diseases from retinal f
 
 | Directory / File | Description |
 | :--- | :--- |
-| **`BaseModel/`** | Contains the initial supervised baseline models, preprocessing scripts, and architecture definitions (e.g., CNN backbones). |
-| **`SemiSupervisedLearning/`** | Experiments utilizing semi-supervised learning. Used mean teacher framework. (such as Pseudo-Labeling or Consistency Regularization) to leverage unlabeled data. |
+| **`BaseModel/`** | Contains the initial supervised baseline models, preprocessing scripts, and architecture definitions. Swin and Efficient Net architecture is experimented. |
+| **`SemiSupervisedLearning/`** | Experiments utilizing semi-supervised learning. Used mean teacher framework. |
 | **`streamlit_app.py`** | A Python script to launch the web interface for real-time image classification. |
 
 ## 🚀 Getting Started
